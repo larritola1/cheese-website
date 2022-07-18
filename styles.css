@@ -1,0 +1,158 @@
+body
+{
+background-color: #FFFF00;
+background-image: assets/timmy.gif;
+color: #0066FF;
+font-family: Comic Sans MS;
+font-size: 15px;
+cursor: wait;
+}
+
+/*WOW*/
+img
+{
+border: 3px solid red;
+margin-right: 5px;
+}
+
+/*I HATE FRENCH FRY*/
+a
+{
+color: #ff00ff; 
+}
+a:hover
+{
+color:#00ffff;
+}
+
+
+header
+{
+height: 100px;
+width:800px;
+background-color: #ff6699;
+text-align: center;
+line-height: 100px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 15px;
+color: #000000;
+}
+
+nav
+{
+height: 35px;
+width: 798px;
+margin: 20px auto;
+}
+
+nav ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+
+nav li
+{
+float: left;
+margin: 0 2px;
+}
+
+nav li a
+{
+height: 35px;
+width: 193px;
+background-color: #ffffff;
+text-align: center;
+line-height: 35px;
+border: 1px solid black;
+color: #ff6699;
+text-decoration: none;
+float: left;
+border-radius: 15px;
+}
+
+nav li a:hover
+{
+background-color: #ff6699;
+color: #000000;
+}
+
+article
+{
+height: 250px;
+width: 800px;
+margin: 20px auto;
+padding: 4px;
+background-color: #ffffff;
+border-radius: 15px;
+}
+
+aside
+{
+width: 200px;
+margin: 10px;
+background-color: #ff6699;
+border: 2px solid #000000;
+float: right;
+text-align: center;
+border-radius: 15px;
+}
+
+aside img
+{
+border: 0;
+}
+
+aside a
+{
+font-size: 12pt;
+color: white;
+text-decoration: none;
+}
+
+aside a:hover
+{
+text-decoration: underline;
+}
+
+footer
+{
+height:P 35px;
+width: 800px;
+background-color: #ffffff;
+font-size: 16px;
+color: #000000;
+text-align: center;
+line-height: 35px;
+margin: 0 auto;
+border-radius: 15px;
+}
+table
+{
+width: 300px;
+border: 2px solid black;
+margin-left: auto;
+margin-right: auto;
+font-size: 12pt;
+border-collapse: collapse;
+background-color: #ff6699;
+}
+
+caption
+{
+font-weight: bold;
+font-size: 14pt;
+}
+
+th, td
+{
+border: 1px solid black;
+padding: 4px;
+}
+
+.pink
+{
+background-color: #ffcccc;
+}
